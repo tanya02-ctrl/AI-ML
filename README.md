@@ -14,19 +14,19 @@ Welcome to the AI/ML Models Repository! This repo contains a curated collection 
 
 ---
 🧪 Datasets Used
-Iris Dataset
-MNIST Handwritten Digits
-Breast Cancer Wisconsin
-Synthetic Fraud Detection Data
-Titanic Survival Dataset
+- Iris Dataset
+- MNIST Handwritten Digits
+- Breast Cancer Wisconsin
+- Synthetic Fraud Detection Data
+- Titanic Survival Dataset
 
 ---
 🧠 Concepts Covered
-Classification vs Regression
-Clustering & Anomaly Detection
-Dimensionality Reduction
-Deep Learning (CNNs, RNNs, Autoencoders)
-Feature Engineering & Data Preprocessing
+- Classification vs Regression
+- Clustering & Anomaly Detection
+- Dimensionality Reduction
+- Deep Learning (CNNs, RNNs, Autoencoders)
+- Feature Engineering & Data Preprocessing
 
 ---
 🤝 Contribution
