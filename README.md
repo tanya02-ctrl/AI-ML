@@ -34,9 +34,9 @@ Feel free to fork the repository, open issues, or submit pull requests. Contribu
 
 ---
 💡 Author
-Made with 💙 by Tanya Shree
-Let me know if you want to include:
-- Jupyter notebooks examples
-- A specific project like fraud detection, sentiment analysis, etc.
+- Made with 💙 by Tanya Shree
+- Let me know if you want to include:
+  - Jupyter notebooks examples
+  - A specific project like fraud detection, sentiment analysis, etc.
 
 Happy coding!
